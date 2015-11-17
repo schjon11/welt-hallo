@@ -7,7 +7,7 @@ Gefährliche Zeitgenossen:
 * Leoparden
 
 
-<h2>Essen</h2>
+<h3>Essen</h3>
  <table>
       <tr>
         <th>Heute</th>
