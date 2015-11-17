@@ -8,7 +8,7 @@ Gefährliche Zeitgenossen:
 
 
 <h2>Essen</h2>
-		 <table>
+ <table>
       <tr>
         <th>Heute</th>
         <th>Morgen</th>
@@ -33,9 +33,7 @@ Gefährliche Zeitgenossen:
         <td>Orange</td>
 		<td>Ananas</td>
       </tr>
-      
-    
-	</table>
+ </table>
 	
 	
 <i> Kursivität
